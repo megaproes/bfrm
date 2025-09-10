@@ -1,4 +1,4 @@
-# Binance Futures Risk Manager (USDT-M)
+# Binance Futures Risk Manager (BFRM)
 
 Monitors all **USDT-M futures** positions on Binance.
 If your current position’s volume exceeds `MAX_NOTIONAL`, it sends a **reduce-only market** order to trim the excess.
